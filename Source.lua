@@ -1,4 +1,8 @@
+-- [VERSION 1]
+-- Made by GplateGam
+
 local Text3DScaler = {}
+Text3DScaler.Version = "V1"
 
 local FontMapping = {
     ["SourceSans"] = TextFontPreset.SourceSans,
