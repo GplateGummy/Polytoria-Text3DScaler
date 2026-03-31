@@ -1,8 +1,8 @@
--- [VERSION 1.1]
+-- [VERSION 1.11]
 -- Made by GplateGam
 
 local Text3DScaler = {}
-Text3DScaler.Version = "V1.1"
+Text3DScaler.Version = "V1.11"
 
 local FontData = {
   Metrics = {
